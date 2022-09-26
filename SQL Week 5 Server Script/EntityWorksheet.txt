@@ -1,0 +1,6 @@
+Players(Name, Courage, Understanding, Expression, Knowledge)
+Courage(Rank, Name, Points, Bonds)
+Diligence(Rank, Name, Points, Bonds)
+Understanding(Rank, Name, Points, Bonds)
+Expression(Rank, Name, Points, Bonds)
+Knowledge(Rank, Name, Points, Bonds)

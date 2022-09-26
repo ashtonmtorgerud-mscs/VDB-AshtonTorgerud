@@ -1,0 +1,11 @@
+//These probably all read very similar, but they have a bit more nuance than they look.
+
+As the game coordinator, i want to organize my game so that it is more steamlined
+
+As the game manager, I want to organize the social links to make sure the players are on track
+
+As the game master, I want to make sure that social stats are balanced so players are equal
+
+As the game creator, I want to make sure that the social stats can be used for future games to have consistent results
+
+As the game designer, I want ot make sure that the social stats correlate to mechanics well
